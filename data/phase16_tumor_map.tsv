@@ -1,0 +1,14 @@
+tumor_type	role	n_samples	n_with_hit	n_mixing	max_effect	median_effect
+Lung (histologically normal)	negative_control	16	0	0	0.0	0.0
+Normal differentiation	null_control	4	0	0	0.0	0.0
+Pediatric HGG	tumor	5	4	0	0.7254	0.0484
+Glioblastoma	tumor	10	5	1	0.4738	0.0443
+Breast PDX	tumor	1	1	0	0.0339	0.0339
+Lung model (mouse)	tumor	8	3	2	0.0241	0.0
+Leukemia (SJMPAL/SJTALL)	tumor	2	2	0	0.0236	0.0196
+K27M glioma (mouse)	tumor	2	2	0	0.0211	0.01885
+PDAC	tumor	2	1	0	0.0148	0.0074
+Ewing sarcoma	tumor	3	0	3	0.0	0.0
+?	unspecified	13	11	2	0.847	0.1484
+Unspecified (human)	unspecified	1	1	0	0.0367	0.0367
+Unspecified (mouse)	unspecified	1	1	0	0.0113	0.0113

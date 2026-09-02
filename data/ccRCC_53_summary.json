@@ -1,0 +1,13 @@
+{
+  "n_donors_ok": 19,
+  "cross_donor_artifact_floor_median": 0.0002951593860684,
+  "cross_donor_artifact_floor_p95": 0.0029498525073746,
+  "n_homoplasmic_sites_pooled": 290717,
+  "n_op_range_het_sites_total": 19921,
+  "overall_concordance_r": 0.7288858538858055,
+  "het_thresh": 0.02,
+  "n_lowband_2to10pct": 18176,
+  "n_germline_ge10pct": 1745,
+  "concordance_lowband_2to10pct": 0.006921142719071081,
+  "concordance_germline_ge10pct": 0.8902490874557354
+}

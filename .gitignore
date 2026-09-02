@@ -1,0 +1,20 @@
+# Generated figure output (regenerate with the scripts in reproduce/)
+figures/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Never track primary data or alignments in this repository
+*.bam
+*.bai
+*.cram
+*.fastq
+*.fastq.gz
+*.npy
+*.npz

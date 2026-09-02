@@ -1,0 +1,164 @@
+{
+  "specificity_4_1": {
+    "n_homoplasmic_sites": 15427,
+    "atac_cons_vaf_median_at_homoplasmic": 0.0004332338500048137,
+    "atac_cons_vaf_p95_at_homoplasmic": 0.002029090450117605,
+    "cons_floor_measured": 0.00023241915133807026,
+    "n_atac_fp_gt1pct": 16,
+    "fp_sites_are_panel_frac": 0.3125
+  },
+  "concordance_4_2": {
+    "n_het_sites": 20,
+    "pearson_atac_wgs_vaf": 0.9926815869029161,
+    "het_sites": [
+      {
+        "pos": 750,
+        "ref": "A",
+        "wgs_vaf": 1.0,
+        "atac_cons_vaf": 0.999701833722606,
+        "is_panel": false
+      },
+      {
+        "pos": 1438,
+        "ref": "A",
+        "wgs_vaf": 1.0,
+        "atac_cons_vaf": 0.9997626112759644,
+        "is_panel": false
+      },
+      {
+        "pos": 2706,
+        "ref": "A",
+        "wgs_vaf": 1.0,
+        "atac_cons_vaf": 0.9999501793543244,
+        "is_panel": false
+      },
+      {
+        "pos": 3106,
+        "ref": "C",
+        "wgs_vaf": 0.23529411764705882,
+        "atac_cons_vaf": 0.0,
+        "is_panel": false
+      },
+      {
+        "pos": 3107,
+        "ref": "N",
+        "wgs_vaf": 1.0,
+        "atac_cons_vaf": 1.0,
+        "is_panel": false
+      },
+      {
+        "pos": 3348,
+        "ref": "A",
+        "wgs_vaf": 0.9960159362549801,
+        "atac_cons_vaf": 1.0,
+        "is_panel": false
+      },
+      {
+        "pos": 4421,
+        "ref": "G",
+        "wgs_vaf": 0.0379746835443038,
+        "atac_cons_vaf": 0.01055109870945239,
+        "is_panel": false
+      },
+      {
+        "pos": 4769,
+        "ref": "A",
+        "wgs_vaf": 0.9972972972972973,
+        "atac_cons_vaf": 0.9978098992553658,
+        "is_panel": false
+      },
+      {
+        "pos": 7028,
+        "ref": "C",
+        "wgs_vaf": 0.9980392156862745,
+        "atac_cons_vaf": 0.999588590235875,
+        "is_panel": false
+      },
+      {
+        "pos": 8860,
+        "ref": "A",
+        "wgs_vaf": 1.0,
+        "atac_cons_vaf": 0.962634283045306,
+        "is_panel": false
+      },
+      {
+        "pos": 9438,
+        "ref": "G",
+        "wgs_vaf": 0.9906542056074766,
+        "atac_cons_vaf": 0.9996604084800854,
+        "is_panel": false
+      },
+      {
+        "pos": 10601,
+        "ref": "T",
+        "wgs_vaf": 0.9927927927927928,
+        "atac_cons_vaf": 0.999278759466282,
+        "is_panel": false
+      },
+      {
+        "pos": 11467,
+        "ref": "A",
+        "wgs_vaf": 1.0,
+        "atac_cons_vaf": 0.99978427819484,
+        "is_panel": false
+      },
+      {
+        "pos": 11719,
+        "ref": "G",
+        "wgs_vaf": 1.0,
+        "atac_cons_vaf": 0.9981476750127747,
+        "is_panel": false
+      },
+      {
+        "pos": 12308,
+        "ref": "A",
+        "wgs_vaf": 1.0,
+        "atac_cons_vaf": 0.9997025756944857,
+        "is_panel": false
+      },
+      {
+        "pos": 12372,
+        "ref": "G",
+        "wgs_vaf": 1.0,
+        "atac_cons_vaf": 0.9996605182754328,
+        "is_panel": false
+      },
+      {
+        "pos": 13772,
+        "ref": "A",
+        "wgs_vaf": 0.02284263959390863,
+        "atac_cons_vaf": 0.0006266645777847407,
+        "is_panel": false
+      },
+      {
+        "pos": 14766,
+        "ref": "C",
+        "wgs_vaf": 1.0,
+        "atac_cons_vaf": 0.9996845027763755,
+        "is_panel": false
+      },
+      {
+        "pos": 15326,
+        "ref": "A",
+        "wgs_vaf": 1.0,
+        "atac_cons_vaf": 0.999023133963856,
+        "is_panel": false
+      },
+      {
+        "pos": 15438,
+        "ref": "G",
+        "wgs_vaf": 0.0641025641025641,
+        "atac_cons_vaf": 0.07856747648508626,
+        "is_panel": false
+      }
+    ]
+  },
+  "artifact_4_3": {
+    "n_panel_homoplasmic": 38,
+    "atac_cons_vaf_median_panel": 0.001758693728247537,
+    "atac_cons_vaf_median_clean": 0.0004319921007158726,
+    "panel_over_clean_ratio": 4.07112473893187
+  },
+  "n_sites_compared": 15447,
+  "het_truth_thresh": 0.02
+}

@@ -1,0 +1,6 @@
+sample	n_cells_labeled	n_joined_truth	n_singlet	n_doublet	n_amb	ARI_singlet	NMI_singlet	accuracy_singlet	macro_F1_singlet	doublet_AUROC	type	label	expectation	k	n_cells	n_candidate_vars	n_informative_vars	cluster_sizes	median_assign_prob	cluster_balance
+CellLine_HighLoading_top122	45550.0	45550.0	20661.0	7112.0	17777.0	0.4057	0.4202	0.6124	0.5871	0.431	benchmark_vs_demuxlet									
+CellLine_LowLoading	24895.0	24895.0	14100.0	3260.0	7535.0	0.1829	0.2602	0.454	0.4276	0.3775	benchmark_vs_demuxlet									
+											control	EW4_L6	POSITIVE_pooledlines	3.0	10188.0	98.0	9.0	"{""cluster0"": 8009, ""cluster2"": 1650, ""cluster1"": 529}"	0.333	0.066
+											control	PDAC02n	NEGATIVE_singledonor	2.0	2903.0	8.0	2.0	"{""cluster0"": 2739, ""cluster1"": 164}"	0.538	0.06
+											control	FN4	POSITIVE_2haplotype	2.0	5977.0	73.0	54.0	"{""cluster1"": 3876, ""cluster0"": 2101}"	1.0	0.542

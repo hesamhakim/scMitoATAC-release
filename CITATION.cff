@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use scMitoATAC, please cite the software and the accompanying paper."
+title: "scMitoATAC"
+abstract: >-
+  Calibrated inference of mitochondrial heteroplasmy from standard, unenriched
+  single-cell ATAC and Multiome data. Combines a per-cell calling engine
+  (calibrated per-position heteroplasmy posterior with explicit abstention) with
+  a population layer (dynamic metacell sizing and a coverage-stratified
+  between-population test).
+type: software
+authors:
+  - family-names: Hakim
+    given-names: Hesam
+    email: hesamhakim@gmail.com
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/hesamhakim/scMitoATAC-release"
+keywords:
+  - mtDNA
+  - heteroplasmy
+  - single-cell
+  - scATAC
+  - multiome
+  - calibration

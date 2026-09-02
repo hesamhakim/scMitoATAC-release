@@ -1,0 +1,24 @@
+# Environment for scMitoATAC: the package, its tests, and the figure-reproduction
+# scripts. Create with:  conda env create -f environment.yml && conda activate scmitoatac
+name: scmitoatac
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  # --- calling engine ---
+  - numpy
+  - scipy
+  - pandas
+  - pysam
+  # --- figure reproduction ---
+  - matplotlib
+  - pillow
+  # --- deploy layer (single-cell containers) ---
+  - anndata
+  - mudata
+  - scanpy
+  # --- development / tests ---
+  - pytest
+  - ruff
+  - black

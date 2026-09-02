@@ -1,0 +1,5 @@
+compartment	n	mt_frac	oxphos	glyco	oxphos_glyco_ratio
+Epithelial_other	889	0.2798	0.1052	0.2046	0.514
+Immune	897	0.1841	0.1218	0.218	0.559
+Malignant	2248	0.1535	0.1877	0.3478	0.54
+Stromal	1157	0.1212	0.2004	0.2884	0.695

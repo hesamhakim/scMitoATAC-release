@@ -1,0 +1,69 @@
+sample	mixing	n_big_effect	n_hits	max_effect_hit	raw_max_confident_effect	top_hit_pos	top_hit_region	top_hit_gene	top_hit_axis	top_hit_k	top_hit_carrier_n	top_hit_nmethods	robust	candidate	confidence	track	project	tumor_type	role
+2937	False	1	3	0.7254	0.7254	9438	MT-CO3	A>G	atacKMeans	8	654	2	True	True	robust	human	SRP298763	Pediatric HGG	tumor
+2932	False	1	4	0.5432	0.5432	9438	MT-CO3	A>G	atacKMeans	8	813	2	True	True	robust	human	SRP299314	Pediatric HGG	tumor
+GBM5A	False	1	1	0.4738	0.4738	4727	MT-ND2	G>A	atacKMeans	4	491	1	False	True	candidate	human	PRJNA1209099	Glioblastoma	tumor
+GBM3B	False	0	7	0.2079	0.2079	9932	MT-CO3	G>A	epiAneufinderCNV	2	233	1	False	True	candidate	human	PRJNA1209099	Glioblastoma	tumor
+GBM3A	False	0	1	0.1857	0.1857	4917	MT-ND2	G>A	atacKMeans	2	69	1	False	True	candidate	human	PRJNA1209099	Glioblastoma	tumor
+GBM6C	False	0	2	0.1532	0.171	6296	MT-CO1	C>T	atacKMeans	3	1052	1	False	True	candidate	human	PRJNA1209099	Glioblastoma	tumor
+GBM2M	False	0	13	0.0886	0.0886	6734	MT-CO1	A>G	epiAneufinderCNV	7	6362	2	True	True	robust	human	PRJNA1209099	Glioblastoma	tumor
+3749	False	0	8	0.0484	0.0484	7399	MT-CO1	C>G	atacKMeans	2	482	2	True	True	robust	human	SRP299314	Pediatric HGG	tumor
+PDX1	False	0	1	0.0339	0.0339	3915	MT-ND1	G>A	epiAneufinderCNV	2	696	1	False	True	candidate	human	PRJNA1216265	Breast PDX	tumor
+3402	False	0	9	0.0293	0.0293	7403	MT-CO1	A>C	epiAneufinderCNV	3	1636	1	False	True	candidate	human	SRP298763	Pediatric HGG	tumor
+spc.KP.B2.M4.190402	False	0	3	0.0241	0.0351	11892	MT-ND4	C>T	epiAneufinderCNV	2	73	1	False	True	candidate	mouse	SRP293527	Lung model (mouse)	tumor
+SRR14325926	False	0	4	0.0236	0.0236	14766	MT-CYB	C>T	epiAneufinderCNV	3	245	1	False	True	candidate	human	SRP316382	Leukemia (SJMPAL/SJTALL)	tumor
+CC10.KPS.B1.3408	False	0	2	0.0222	0.0298	4929	MT-ND2	T>A	epiAneufinderCNV	2	233	1	False	True	candidate	mouse	SRP293527	Lung model (mouse)	tumor
+K27M_ATAC_113018	False	0	8	0.0211	0.0249	8495	MT-ATP8	C>A	atacKMeans	2	150	1	False	True	candidate	mouse	SRP199683	K27M glioma (mouse)	tumor
+K27M_ATAC_121418	False	0	2	0.0166	0.0302	15158	MT-CYB	T>C	atacKMeans	2	159	1	False	False	weak	mouse	SRP199683	K27M glioma (mouse)	tumor
+CC10.KPS.B2.3409	False	0	1	0.0164	0.0194	15303	MT-CYB	A>G	atacKMeans	2	152	1	False	False	weak	mouse	SRP293527	Lung model (mouse)	tumor
+SRR14325928	False	0	1	0.0156	0.0182	14989	MT-CYB	C>G	atacKMeans	2	187	1	False	False	weak	human	SRP316382	Leukemia (SJMPAL/SJTALL)	tumor
+PDAC03	False	0	3	0.0148	0.0168	7626	MT-CO2	C>G	atacKMeans	2	451	1	False	False	weak	human	PRJNA1236856	PDAC	tumor
+PDAC05	False	0	0	0.0	0.0062								False	False	null	human	PRJNA1236856	PDAC	tumor
+EW4_L2	True	6	0	0.0	0.5026								False	False	pooled	human	PRJNA1468702	Ewing sarcoma	tumor
+EW4_L5	True	13	0	0.0	0.5672								False	False	pooled	human	PRJNA1468702	Ewing sarcoma	tumor
+GBM4M	False	0	0	0.0	0.0145								False	False	null	human	PRJNA1209099	Glioblastoma	tumor
+GBM4C	False	0	0	0.0	0.0								False	False	null	human	PRJNA1209099	Glioblastoma	tumor
+EW_2_Mo	True	4	0	0.0	0.8029	5471	MT-ND2	G>A	epiAneufinderCNV	8	3069	2	True	False	pooled	human	PRJNA1468702	Ewing sarcoma	tumor
+GBM6M	False	0	0	0.0	0.0								False	False	null	human	PRJNA1209099	Glioblastoma	tumor
+4021	False	0	0	0.0	0.0085								False	False	null	human	SRP298763	Pediatric HGG	tumor
+GBM5B	True	6	0	0.0	0.4101								False	False	mixing	human	PRJNA1209099	Glioblastoma	tumor
+GBM1C	False	0	0	0.0	0.0								False	False	null	human	PRJNA1209099	Glioblastoma	tumor
+spc.KP.B1.190402	False	0	0	0.0	0.021								False	False	null	mouse	SRP293527	Lung model (mouse)	tumor
+CC10.KP.B1.2569	False	0	0	0.0	0.0142								False	False	null	mouse	SRP293527	Lung model (mouse)	tumor
+CC10.KP.HET.B2.3019	False	0	0	0.0	0.0046								False	False	null	mouse	SRP293527	Lung model (mouse)	tumor
+CC10.KP.HET.B1.3018	True	585	0	0.0	0.0958								False	False	mixing	mouse	SRP293527	Lung model (mouse)	tumor
+CC10.KP.B2.3017	True	441	0	0.0	0.0524								False	False	mixing	mouse	SRP293527	Lung model (mouse)	tumor
+LUAD_AL05	False	1	5	0.847	0.847	15596	MT-CYB	A>G	atacKMeans	4	4138	1	False	True	candidate	human	?	?	unspecified
+LUAD_AL11	False	1	7	0.3134	0.3134	4775	MT-ND2	A>G	atacKMeans	8	6638	2	True	True	robust	human	?	?	unspecified
+LUAD_AL08	False	0	8	0.2979	0.2979	15059	MT-CYB	G>A	atacKMeans	8	5731	2	True	True	robust	human	?	?	unspecified
+LUAD_LBM_RIH2	False	0	1	0.2541	0.2541	13063	MT-ND5	A>G	atacKMeans	8	4876	2	True	True	robust	human	?	?	unspecified
+LUAD_LBM_RIH3	False	0	2	0.2259	0.2259	12613	MT-ND5	A>G	atacKMeans	2	363	1	False	True	candidate	human	?	?	unspecified
+LUAD_LBM_RIH1	False	0	2	0.1549	0.1549	13177	MT-ND5	A>G	atacKMeans	5	4778	2	True	True	robust	human	?	?	unspecified
+LUAD_LBM_RIH5	False	0	1	0.1484	0.1484	6717	MT-CO1	G>A	atacKMeans	5	5158	2	True	True	robust	human	?	?	unspecified
+SRR12995620	False	0	3	0.0367	0.0367	7769	MT-CO2	G>A	atacKMeans	4	2315	2	True	True	robust	human	SRP291355	Unspecified (human)	unspecified
+LUAD_LBM_USC3	False	0	2	0.0293	0.0293	11348	MT-ND4	C>A	atacKMeans	5	3285	2	True	True	robust	human	?	?	unspecified
+LUAD_LBM_USC2_1	False	0	2	0.0253	0.0253	9460	MT-CO3	T>C	epiAneufinderCNV	2	96	2	False	True	candidate	human	?	?	unspecified
+LUAD_LBM_USC2_2	False	0	1	0.0191	0.0261	12933	MT-ND5	A>G	epiAneufinderCNV	2	68	1	False	False	weak	human	?	?	unspecified
+LUAD_AL12	False	0	2	0.0117	0.0412	8117	MT-CO2	C>G	atacKMeans	2	181	1	False	False	weak	human	?	?	unspecified
+SRR13075832	False	0	2	0.0113	0.0155	9753	MT-CO3	T>G	atacKMeans	2	139	1	False	False	weak	mouse	SRP292950	Unspecified (mouse)	unspecified
+LUAD_mult_T255	True	20	0	0.0	0.5333								False	False	mixing	human	?	?	unspecified
+LUAD_AL10	True	5	0	0.0	0.495								False	False	mixing	human	?	?	unspecified
+Day25	False	0	0	0.0	0.0								False	False	null	human	PRJNA1289757	Normal differentiation	null_control
+Day7	False	0	0	0.0	0.0								False	False	null	human	PRJNA1289757	Normal differentiation	null_control
+Day19	False	0	0	0.0	0.0								False	False	null	human	PRJNA1289757	Normal differentiation	null_control
+Day12	False	0	0	0.0	0.0								False	False	null	human	PRJNA1289757	Normal differentiation	null_control
+MN1	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control
+FN4	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control
+FN3	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control
+FS2	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control
+MS3	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control
+FN2	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control
+MN4	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control
+FS3	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control
+MS2	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control
+FS1	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control
+MN3	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control
+MN2	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control
+MS1	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control
+MS4	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control
+FS4	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control
+FN1	False	0	0	0.0	0.0								False	False	null	human	PRJNA1008237	Lung (histologically normal)	negative_control

@@ -1,0 +1,10 @@
+substrate,candidates,in_band_prefilter,eligible,eligible_and_in_band,cells_covered,median_truth_vaf,gate
+bmmc s4d8,49,40.0,43,37,5532,0.0249,PASS
+glioma 4021,29,26.0,16,16,1729,0.0227,PASS
+glioma 2932,25,20.0,12,11,884,0.0262,PASS
+glioma 2937,28,24.0,11,10,1189,0.02,PASS
+mhsc lthsc,127,122.0,8,8,516,0.0085,below gate
+cochlea p1wt,33,,4,3,1955,,below gate
+mlung kp 3017,25,,2,2,291,,below gate
+tcell cpep1,6,4.0,3,2,482,0.0433,below gate
+mlung kp 3019,5,,0,0,717,,below gate

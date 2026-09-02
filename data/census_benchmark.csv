@@ -1,0 +1,16 @@
+sample,modality,tissue,kit,organism,prep,n_cells,chrM_frac_usable,chrM_reads_total,dup_frac,agg_cov_mean,agg_breadth_ge1x,percell_median_predup,percell_median_postdup,percell_p90_postdup,callable_frac_ge20,callable_frac_ge50,callable_frac_ge100,ambient_read_frac
+multiome_pbmc_10k,Multiome,PBMC,arc-2,human,nuclei,11418,0.0161,10016453,0.414,29399.13,1.0,100,58,856,0.7357,0.5403,0.3699,0.1536
+pbmc_gran_3k,Multiome,PBMC,arc-2,human,nuclei,2489,0.027,3101597,0.345,9098.96,1.0,100,65,1750,0.7501,0.5661,0.4062,0.164
+pbmc_unsorted_3k,Multiome,PBMC,arc-2,human,nuclei,2939,0.041,5338166,0.254,15702.12,1.0,188,140,2488,0.8809,0.7343,0.5716,0.4172
+e18_mouse_brain_5k,Multiome,brain,arc-2,mouse,nuclei,2189,0.0011,544497,0.403,1636.18,1.0,36,20,142,0.5208,0.2869,0.1549,0.5389
+multiome_brain_3k,Multiome,brain,arc-2,human,nuclei,3203,0.0228,9674976,0.43,28489.83,1.0,1088,615,2721,0.9394,0.8914,0.8227,0.2214
+lymph_node_lymphoma_14k,Multiome,lymph-node,arc-2,human,nuclei,14552,0.0509,32911103,0.324,96912.93,1.0,1401,952,3135,0.9827,0.958,0.9197,0.0527
+10k_pbmc_ATACv2,scATAC,PBMC,v2-X,human,cells,9116,0.0026,1493346,0.438,4382.56,1.0,75,42,158,0.7143,0.447,0.2209,0.0429
+atac_pbmc_10k,scATAC,PBMC,v2,human,cells,5896,0.0024,1432951,0.415,4173.06,1.0,46,26,142,0.5711,0.3401,0.1557,0.3571
+atac_pbmc_1k_nextgem,scATAC,PBMC,v1.2-NG,human,cells,503,0.0037,321914,0.629,927.23,1.0,128,46,235,0.7137,0.4831,0.2684,0.5239
+atac_pbmc_5k_nextgem,scATAC,PBMC,v1.2-NG,human,cells,2616,0.003,972251,0.644,2823.64,1.0,74,28,131,0.5921,0.344,0.1537,0.4536
+atac_v1_pbmc_10k,scATAC,PBMC,v1,human,cells,8341,0.0058,2886114,0.718,8354.53,1.0,94,26,134,0.5881,0.3251,0.1524,0.3899
+atac_v1_pbmc_5k,scATAC,PBMC,v1,human,cells,4898,0.0076,2133932,0.713,6168.24,1.0,128,36,206,0.6278,0.4336,0.267,0.3185
+8k_mouse_cortex,scATAC,cortex,v2-X,mouse,nuclei,8067,0.0187,138261797,0.502,414389.73,1.0,824,565,1353,0.9993,0.9947,0.9836,0.9328
+lung_COB11_GSE319044,Multiome,lung,arc-2,human,whole-cell,5644,0.0655,15345958,0.3563,46753.2,1.0,2055,1323,3495,0.9934,0.9748,0.9403,0.057
+mtdogma_PT1rep2_GSE217450,Multiome,PBMC,arc-2,human,enriched,13982,0.17,140827373,0.6964,720054.1,1.0,7196,2194,4564,0.9999,0.9989,0.992,0.1687

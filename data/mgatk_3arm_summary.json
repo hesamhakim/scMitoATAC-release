@@ -1,0 +1,10 @@
+{
+  "n_pos": 16569,
+  "n_enr_het": 126,
+  "concordance_mgatk_std_vs_enr": 0.9740748667077885,
+  "mgatk_std_median_vaf_at_enr_homo": 0.0007403568520026653,
+  "concordance_ours_vs_mgatk_std": 0.9209241821762121,
+  "ours_std_median_vaf_at_enr_homo": 0.00049365303244,
+  "median_enr_dp": 30439.0,
+  "median_std_dp": 17580.0
+}

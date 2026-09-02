@@ -1,0 +1,7 @@
+depth	n_prescreen	n_chimeric	clonality_yield	n_between_testable	n_rate_disc	n_vaf_disc
+2	1035	0	0.0	0	0	0
+3	1035	0	0.0	0	0	0
+5	1035	0	0.0	0	0	0
+10	1035	0	0.0	6	4	2
+20	1035	0	0.0	75	19	27
+full	1035	0	0.0	78	15	28

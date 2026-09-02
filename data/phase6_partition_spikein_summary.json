@@ -1,0 +1,123 @@
+{
+  "pairs": [
+    "REH|RCC86",
+    "REH|RCC112",
+    "REH|RCC106"
+  ],
+  "inject_vafs": [
+    0.2,
+    0.1,
+    0.05,
+    0.03,
+    0.02,
+    0.01,
+    0.005
+  ],
+  "depths": [
+    500,
+    2000
+  ],
+  "k_partitions": [
+    5,
+    10,
+    19
+  ],
+  "n_sites": 91,
+  "dilution_false_negative_regime": [
+    {
+      "depth": 500,
+      "inject_vaf": 0.01,
+      "n_partitions": 5,
+      "part_sens": 0.9653846153846153,
+      "rand_sens": 0.10333333333333335
+    },
+    {
+      "depth": 500,
+      "inject_vaf": 0.01,
+      "n_partitions": 10,
+      "part_sens": 0.9653846153846153,
+      "rand_sens": 0.024908424908424907
+    },
+    {
+      "depth": 500,
+      "inject_vaf": 0.01,
+      "n_partitions": 19,
+      "part_sens": 0.9653846153846153,
+      "rand_sens": 0.024065934065934064
+    },
+    {
+      "depth": 500,
+      "inject_vaf": 0.02,
+      "n_partitions": 10,
+      "part_sens": 0.9994505494505495,
+      "rand_sens": 0.10791208791208791
+    },
+    {
+      "depth": 500,
+      "inject_vaf": 0.02,
+      "n_partitions": 19,
+      "part_sens": 0.9994505494505495,
+      "rand_sens": 0.10897435897435896
+    },
+    {
+      "depth": 500,
+      "inject_vaf": 0.03,
+      "n_partitions": 19,
+      "part_sens": 1.0,
+      "rand_sens": 0.10509157509157509
+    },
+    {
+      "depth": 500,
+      "inject_vaf": 0.05,
+      "n_partitions": 19,
+      "part_sens": 1.0,
+      "rand_sens": 0.10783882783882782
+    },
+    {
+      "depth": 2000,
+      "inject_vaf": 0.005,
+      "n_partitions": 5,
+      "part_sens": 0.9703296703296703,
+      "rand_sens": 0.32362637362637364
+    },
+    {
+      "depth": 2000,
+      "inject_vaf": 0.005,
+      "n_partitions": 10,
+      "part_sens": 0.9703296703296703,
+      "rand_sens": 0.08666666666666667
+    },
+    {
+      "depth": 2000,
+      "inject_vaf": 0.005,
+      "n_partitions": 19,
+      "part_sens": 0.9703296703296703,
+      "rand_sens": 0.08827838827838828
+    },
+    {
+      "depth": 2000,
+      "inject_vaf": 0.01,
+      "n_partitions": 10,
+      "part_sens": 0.9993406593406593,
+      "rand_sens": 0.3284249084249084
+    },
+    {
+      "depth": 2000,
+      "inject_vaf": 0.01,
+      "n_partitions": 19,
+      "part_sens": 0.9993406593406593,
+      "rand_sens": 0.0884981684981685
+    },
+    {
+      "depth": 2000,
+      "inject_vaf": 0.02,
+      "n_partitions": 19,
+      "part_sens": 1.0,
+      "rand_sens": 0.32388278388278385
+    }
+  ],
+  "partition_recovery_floor": {
+    "500": 0.01,
+    "2000": 0.005
+  }
+}

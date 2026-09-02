@@ -1,0 +1,14 @@
+application,series,pct_series,samples,human_series,disease_series,pct_disease
+Cancer / tumour,500,19.4,18070,321,412,82
+Immunology / blood,432,16.8,24341,224,113,26
+Neuroscience / brain,429,16.7,25119,140,183,43
+Development / differentiation,291,11.3,19361,121,83,29
+Cardiovascular,210,8.2,1141,142,40,19
+Metabolic / liver / kidney / pancreas,164,6.4,3838,92,64,39
+Reference atlas / uncharacterised,143,5.6,292,114,0,0
+Musculoskeletal / skin,102,4.0,1402,46,20,20
+Method / benchmark,83,3.2,15135,55,11,13
+Lung / airway,60,2.3,559,34,17,28
+Plant / non-mammalian model,54,2.1,4585,0,5,9
+Gut / GI,53,2.1,267,39,7,13
+Reproductive / gonad,50,1.9,730,27,6,12

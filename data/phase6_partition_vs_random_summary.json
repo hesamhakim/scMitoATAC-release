@@ -1,0 +1,11 @@
+{
+  "n_donor_private_sites": 64,
+  "n_partition_callable": 64,
+  "n_random_callable": 64,
+  "n_recovered_by_partition": 0,
+  "frac_recovered": 0.0,
+  "median_partition_vaf": 1.0,
+  "median_random_vaf": 0.04585598202535663,
+  "floor": 0.0003,
+  "pool_N": 100
+}

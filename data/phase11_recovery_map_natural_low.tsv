@@ -1,0 +1,9 @@
+budget	achieved_per_cell_depth	median_pooled_depth	n_tested	n_truth_licensed	n_recovered	recovery_frac	n_false_recovery	n_feasible_0.005	n_feasible_0.01	n_feasible_0.02	n_feasible_0.05	n_feasible_0.1
+0.03	1.01	25.0	72	71	1	0.014	0	0	0	0	0	0
+0.05	1.018	40.0	73	71	3	0.042	0	0	0	0	0	0
+0.08	1.025	63.5	73	71	8	0.113	0	0	0	0	0	0
+0.13	1.045	105.0	73	71	2	0.028	0	0	0	2	2	2
+0.2	1.069	162.0	73	71	7	0.099	0	0	0	36	36	36
+0.3	1.101	238.0	73	71	10	0.141	0	0	0	56	56	56
+0.5	1.167	400.0	73	71	17	0.239	0	0	0	70	70	70
+full	11.737	8957.0	73	71	71	1.0	0	72	73	73	73	73

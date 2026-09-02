@@ -1,0 +1,16 @@
+sample,modality,tissue,prep,median_depth,percell_floor_median_vaf_pct,frac_lic_1pct,frac_lic_5pct
+multiome_pbmc_10k,Multiome,PBMC,nuclei,58,3.45,0.232,0.595
+pbmc_gran_3k,Multiome,PBMC,nuclei,65,3.08,0.293,0.62
+pbmc_unsorted_3k,Multiome,PBMC,nuclei,140,1.43,0.427,0.779
+e18_mouse_brain_5k,Multiome,brain,nuclei,20,10.0,0.064,0.339
+multiome_brain_3k,Multiome,brain,nuclei,615,0.33,0.736,0.907
+lymph_node_lymphoma_14k,Multiome,lymph-node,nuclei,952,0.21,0.849,0.966
+10k_pbmc_ATACv2,scATAC,PBMC,cells,42,4.76,0.064,0.523
+atac_pbmc_10k,scATAC,PBMC,cells,26,7.69,0.06,0.402
+atac_pbmc_1k_nextgem,scATAC,PBMC,cells,48,4.17,0.13,0.552
+atac_pbmc_5k_nextgem,scATAC,PBMC,cells,32,6.25,0.058,0.432
+atac_v1_pbmc_10k,scATAC,PBMC,cells,28,7.14,0.053,0.407
+atac_v1_pbmc_5k,scATAC,PBMC,cells,42,4.76,0.111,0.511
+8k_mouse_cortex,scATAC,cortex,nuclei,565,0.35,0.943,0.996
+lung_COB11_GSE319044,Multiome,lung,whole-cell,1323,0.151,0.8707,0.9818
+mtdogma_PT1rep2_GSE217450,Multiome,PBMC,enriched,2194,0.091,0.9698,0.9993

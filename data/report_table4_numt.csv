@@ -1,0 +1,4 @@
+substrate,modality,tissue,chrM_reads,numt_reads,numt_share_pct,vs_mgatk_0.1pct_fold
+atac_pbmc_10k,scATAC,PBMC,1396449,30914,2.214,22.1
+multiome_pbmc_10k,Multiome,PBMC,9784746,197376,2.017,20.2
+multiome_brain_3k,Multiome,brain,9459013,185656,1.963,19.6

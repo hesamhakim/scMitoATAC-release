@@ -1,0 +1,9 @@
+sample	budget	n_tested	n_truth	n_recovered	recovery	median_pooled_depth
+glioma_4021	0.03	98	8	1	0.125	11.0
+glioma_4021	0.05	168	8	0	0.0	15.0
+glioma_4021	0.08	174	8	0	0.0	24.0
+glioma_4021	0.13	174	8	0	0.0	39.0
+glioma_4021	0.2	175	8	0	0.0	61.0
+glioma_4021	0.3	175	8	0	0.0	93.0
+glioma_4021	0.5	175	8	1	0.125	154.0
+glioma_4021	full	176	8	8	1.0	10476.5

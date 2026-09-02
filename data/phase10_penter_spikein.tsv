@@ -1,0 +1,4 @@
+target_cluster	vaf	recovery
+12	0.05	0.1
+12	0.1	0.7
+12	0.25	1.0

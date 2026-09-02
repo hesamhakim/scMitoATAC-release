@@ -1,0 +1,2 @@
+n_testable	n_rate_disc	n_vaf_disc	fpr_stratified	fpr_plain	empirical_fdr	alpha	k_null	strat_mean	plain_mean
+78	15	28	0.000641025641025641	0.001282051282051282	0.0033333333333333335	0.05	20	0.05	0.1

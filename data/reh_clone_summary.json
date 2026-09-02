@@ -1,0 +1,7 @@
+{
+  "n_het_sites": 3,
+  "corr_pooled_vaf_vs_truth": 0.9688017893967451,
+  "corr_called_carrierfrac_vs_truth": 0.9632306755568292,
+  "median_detection_power": 0.048429165822828524,
+  "scope_note": "REH monoclonal: single-cell resolution machinery validated against population WGS VAF; between-clone separation deferred to a multi-clonal substrate (ccRCC/myeloma)."
+}

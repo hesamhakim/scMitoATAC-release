@@ -1,0 +1,14 @@
+{
+  "n_donors": 19,
+  "n_homoplasmic_siteobs": 245241,
+  "n_positions": 16542,
+  "top10_massfrac": 0.083,
+  "top50_massfrac": 0.1842,
+  "n_positions_for_80pct": 6721,
+  "reproducibility_r_donor_halves": 0.2806,
+  "top50_recurrent_ge10donors": 16,
+  "top50_in_known_panel": 1,
+  "top50_in_control_region": 12,
+  "median_false_vaf_all_homo": 0.000358,
+  "mean_false_vaf_all_homo": 0.000868
+}

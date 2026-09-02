@@ -1,0 +1,7 @@
+sample	role	max_n_confident	best_k	max_effect	top_pos	top_gene	top_k_stability
+PBMC_D12T3	healthy_control	13	k2	0.0055	3475.0	MT-ND1	1/4
+BMMC_D5T1	healthy_control	9	k2	0.0372	14903.0	MT-CYB	1/4
+BMMC_D6T1	healthy_control	6	k3	0.0632	6269.0	MT-CO1	1/4
+MPAL2_T1	leukemia	2	k2	0.0092	4093.0	MT-ND1	3/4
+MPAL5R_T2	leukemia	2	k6	0.0366	4713.0	MT-ND2	1/4
+MPAL3_T2	leukemia	0	k2	0.0			

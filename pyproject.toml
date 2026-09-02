@@ -1,0 +1,33 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "scmitoatac"
+version = "0.1.0"
+description = "Calibrated-confidence mtDNA heteroplasmy calling from standard unenriched scATAC/Multiome (working name)"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "Hesam Hakim", email = "hesamhakim@gmail.com" }]
+keywords = ["mtDNA", "heteroplasmy", "single-cell", "scATAC", "multiome", "calibration"]
+dependencies = [
+    "numpy",
+    "scipy",
+    "pandas",
+    "pysam",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "black", "ruff", "mypy"]
+deploy = ["anndata", "mudata", "scanpy"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["scmitoatac"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.black]
+line-length = 100
+

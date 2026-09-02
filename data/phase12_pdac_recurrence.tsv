@@ -1,0 +1,68 @@
+pos	region	region_class	artifact_prone	n_tested	n_licensed	n_confident	top_compartment	top_consistent	samples_confident
+15038	MT-CYB	coding	False	3	3	1	Neuron	1	SN2942
+14989	MT-CYB	coding	False	3	2	1	Neuron	1	SN2942
+6544	MT-CO1	coding	False	3	1	1	Neuron	1	SN2942
+11243	MT-ND4	coding	False	3	1	1	Microglia	1	SN2942
+13645	MT-ND5	coding	False	2	1	1	Oligodendrocyte	1	SN2942
+14000	MT-ND5	coding	False	3	1	1	Astrocyte	1	SN2942
+14569	MT-ND6	coding	False	2	1	1	Microglia	1	SN2942
+2492	MT-RNR2	rRNA	True	1	1	0		0	
+3107	MT-RNR2	rRNA	True	3	1	0		0	
+8885	MT-ATP6	coding	False	3	1	0		0	
+13951	MT-ND5	coding	False	1	1	0		0	
+627	tRNA/intergenic	tRNA	True	1	0	0		0	
+998	MT-RNR1	rRNA	True	1	0	0		0	
+2521	MT-RNR2	rRNA	True	1	0	0		0	
+3130	MT-RNR2	rRNA	True	1	0	0		0	
+3371	MT-ND1	coding	False	3	0	0		0	
+3572	MT-ND1	coding	False	3	0	0		0	
+3578	MT-ND1	coding	False	3	0	0		0	
+3590	MT-ND1	coding	False	3	0	0		0	
+3599	MT-ND1	coding	False	3	0	0		0	
+3653	MT-ND1	coding	False	2	0	0		0	
+3943	MT-ND1	coding	False	3	0	0		0	
+4142	MT-ND1	coding	False	3	0	0		0	
+4325	tRNA/intergenic	tRNA	True	1	0	0		0	
+4519	MT-ND2	coding	False	2	0	0		0	
+4572	MT-ND2	coding	False	1	0	0		0	
+5316	MT-ND2	coding	False	1	0	0		0	
+6037	MT-CO1	coding	False	1	0	0		0	
+6069	MT-CO1	coding	False	2	0	0		0	
+6070	MT-CO1	coding	False	1	0	0		0	
+6090	MT-CO1	coding	False	3	0	0		0	
+6246	MT-CO1	coding	False	1	0	0		0	
+6342	MT-CO1	coding	False	2	0	0		0	
+6462	MT-CO1	coding	False	1	0	0		0	
+6464	MT-CO1	coding	False	2	0	0		0	
+6474	MT-CO1	coding	False	1	0	0		0	
+6513	MT-CO1	coding	False	1	0	0		0	
+6837	MT-CO1	coding	False	2	0	0		0	
+7032	MT-CO1	coding	False	1	0	0		0	
+7347	MT-CO1	coding	False	1	0	0		0	
+7832	MT-CO2	coding	False	3	0	0		0	
+7953	MT-CO2	coding	False	3	0	0		0	
+8077	MT-CO2	coding	False	1	0	0		0	
+8117	MT-CO2	coding	False	1	0	0		0	
+8383	MT-ATP8	coding	False	1	0	0		0	
+8749	MT-ATP6	coding	False	3	0	0		0	
+8860	MT-ATP6	coding	False	2	0	0		0	
+8862	MT-ATP6	coding	False	1	0	0		0	
+9076	MT-ATP6	coding	False	2	0	0		0	
+9452	MT-CO3	coding	False	1	0	0		0	
+9779	MT-CO3	coding	False	1	0	0		0	
+10392	MT-ND3	coding	False	1	0	0		0	
+11790	MT-ND4	coding	False	1	0	0		0	
+12234	tRNA/intergenic	tRNA	True	1	0	0		0	
+12351	MT-ND5	coding	False	2	0	0		0	
+12835	MT-ND5	coding	False	1	0	0		0	
+12849	MT-ND5	coding	False	1	0	0		0	
+12972	MT-ND5	coding	False	1	0	0		0	
+13171	MT-ND5	coding	False	1	0	0		0	
+13382	MT-ND5	coding	False	2	0	0		0	
+13488	MT-ND5	coding	False	1	0	0		0	
+13606	MT-ND5	coding	False	1	0	0		0	
+14856	MT-CYB	coding	False	1	0	0		0	
+15212	MT-CYB	coding	False	1	0	0		0	
+15270	MT-CYB	coding	False	2	0	0		0	
+15497	MT-CYB	coding	False	1	0	0		0	
+15803	MT-CYB	coding	False	1	0	0		0	

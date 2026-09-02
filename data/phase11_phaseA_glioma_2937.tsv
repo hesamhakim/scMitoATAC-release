@@ -1,0 +1,9 @@
+sample	budget	n_tested	n_truth	n_recovered	recovery	median_pooled_depth
+glioma_2937	0.03	5	8	0	0.0	7.0
+glioma_2937	0.05	86	8	1	0.125	8.0
+glioma_2937	0.08	115	8	1	0.125	11.0
+glioma_2937	0.13	116	8	0	0.0	18.0
+glioma_2937	0.2	116	8	1	0.125	27.5
+glioma_2937	0.3	116	8	1	0.125	41.0
+glioma_2937	0.5	116	8	0	0.0	68.0
+glioma_2937	full	117	8	8	1.0	3481.0

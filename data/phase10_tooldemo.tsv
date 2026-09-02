@@ -1,0 +1,4 @@
+source	partition_key	n_testable	n_rate_hits	n_vaf_hits
+A_STD_Cat_compartments	STD_Cat	77	23	26
+B_user_KMeans_LSI	user_kmeans	77	23	31
+C_CSV_ingested_STD_Cat	STD_Cat	77	23	26

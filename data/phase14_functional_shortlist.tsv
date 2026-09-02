@@ -1,0 +1,3 @@
+sample	pos	region	gene_change	methods	max_effect	carrier_vaf	lineage_class	mc_oxphos_r	mc_oxphos_p
+MN2	7236	MT-CO1	G>C	celltype	0.1467	0.147	celltype_only	0.264	0.0007
+FS4	7919	MT-CO2	G>A	metabWithinCT-Myeloid	0.1006	0.1011	lineage_independent	0.057	0.4482

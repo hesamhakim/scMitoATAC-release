@@ -1,0 +1,4 @@
+# regenerable bwa-0.7.17 index binaries (rebuild from chrM_numt_decoy.fa via BUILD_INDEX.md)
+chrM_numt_decoy.fa.bwt
+chrM_numt_decoy.fa.sa
+chrM_numt_decoy.fa.pac

@@ -1,0 +1,6 @@
+covariate,eta2_log_depth,n_levels
+tissue,0.715,5
+prep,0.547,3
+kit,0.341,5
+modality,0.214,2
+organism,0.001,2

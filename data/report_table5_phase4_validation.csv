@@ -1,0 +1,11 @@
+Task,Metric,Value,Notes
+4.1 Specificity (REH vs WGS),homoplasmic-site ATAC VAF median,0.043%,= measured floor 0.023%; p95 0.20%; 16/15427 FP>1% (31% panel)
+4.2 Concordance (REH vs WGS),"Pearson r, 20 het sites",0.993,minor alleles recovered to ~4-8% VAF
+4.3 Artifact (REH),panel/clean VAF ratio at homoplasmic,4.07×,"0.176% panel vs 0.043% clean, 38 panel sites"
+4.4 Concordance (De Rop std vs enr),"Pearson r, 58 het sites",0.975,standard recovers heteroplasmy enrichment sees
+4.4 Enrichment factor,median per-cell depth ratio,2.33×,7 vs 3 mol; a refinement not a step change
+4.4 Specificity (De Rop std),VAF median at enr-homoplasmic,0.0495%,= floor; 15390 sites
+4.4 Artifact (De Rop),panel/clean VAF ratio,5.04×,0.249% panel vs 0.049% clean
+4.5 Pooling recovery (De Rop),"log-log variance slope, 56 sites",−0.96,"56/56 climb, 0 plateau; err 0.49→0.011 over N=1..1600"
+4.5 Pooling recovery (REH WGS),"log-log variance slope, 3 sites",−0.88,3/3 climb
+4.6 Clone resolution (REH),carrier-frac vs WGS truth r,0.963,pooled r=0.969; median per-cell power 0.048; monoclonal scope
