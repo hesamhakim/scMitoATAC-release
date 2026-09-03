@@ -63,7 +63,7 @@ Figure scripts resolve paths relative to the repository root. Override with `SCM
 
 ## Citing
 
-See `CITATION.cff`. The accompanying paper is in preparation; please cite the software release until it appears.
+This release is archived at Zenodo: [10.5281/zenodo.22264298](https://doi.org/10.5281/zenodo.22264298). The concept DOI [10.5281/zenodo.22264297](https://doi.org/10.5281/zenodo.22264297) always resolves to the latest version. Machine-readable metadata is in `CITATION.cff`. The accompanying paper is in preparation; please cite the software release until it appears.
 
 ## License
 

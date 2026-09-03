@@ -14,6 +14,14 @@ authors:
     email: hesamhakim@gmail.com
 version: 0.1.0
 license: MIT
+doi: 10.5281/zenodo.22264297
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22264297
+    description: Concept DOI, resolves to the latest version
+  - type: doi
+    value: 10.5281/zenodo.22264298
+    description: Archived snapshot of v0.1.0
 repository-code: "https://github.com/hesamhakim/scMitoATAC-release"
 keywords:
   - mtDNA
